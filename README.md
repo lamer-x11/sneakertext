@@ -22,4 +22,4 @@ For a more robust C version please check https://github.com/bartobri/no-more-sec
 
 ## Example
 
-![Example](https://github.com/lamer-x11/sneakertext/raw/master/example.gif)
+![Example](https://github.com/lamer-x11/examples/raw/master/sneakertext.gif)
